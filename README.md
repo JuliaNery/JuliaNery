@@ -1,5 +1,5 @@
 ### Hello World!
-Sou estudante de Análise e Desenvolvimento de Sistemas e além de ser um repositório academico tambem é um repositório de projetos. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e esse repositório além de projetos academicos guarda projetos individuais. 
 <!--
 **JuliaNery/JuliaNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
