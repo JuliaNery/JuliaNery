@@ -1,5 +1,6 @@
 ### Hello World!
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e esse repositório além de projetos academicos guarda projetos individuais. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e estagiaria no Banco Pan.
+Este repositório guarda projetos academicos e individuais. 
 <!--
 **JuliaNery/JuliaNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
